@@ -20,3 +20,12 @@ timer polling, non-blocking polling of inputs, and use of structs.
 Gear needed:
 1.Altari DE1-SoC development board. ALl drrivers are included in the repository download.
 2.Eclipse for altari development
+
+
+**************************Diaclamer************************
+Project development team:
+  Chima Daniel Nnadika
+  Azeem Oguntola
+  
+ Project written for the ELEC5620M Module for the University of Leeds summer semester 2018.
+ All exernal code with propietary ownership tagged with full owners credentials.
