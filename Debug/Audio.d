@@ -1,0 +1,10 @@
+HeroGame/Audio.o: ../HeroGame/Audio.c
+HeroGame/Audio.o: ../HeroGame/Audio.h
+HeroGame/Audio.o: ../HeroGame/../WM8731_AudioEngine/WM8731_AudioEngine.h
+HeroGame/Audio.o: C:/altera/15.0/embedded/ds-5/sw/ARMCompiler5.05u1/bin/../include/stdbool.h
+HeroGame/Audio.o: ../HeroGame/../HPS_IRQ/HPS_IRQ.h
+HeroGame/Audio.o: ../HeroGame/../HPS_IRQ/HPS_IRQ_IDs.h
+HeroGame/Audio.o: ../HeroGame/../HPS_Timers/HPS_Timers.h
+HeroGame/Audio.o: ../HeroGame/Sounds/avengers_Audio1.h
+HeroGame/Audio.o: ../HeroGame/Sounds/avengers_Audio2.h
+HeroGame/Audio.o: ../HeroGame/Sounds/avengers_Audio3.h

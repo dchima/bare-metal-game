@@ -1,0 +1,15 @@
+FatFS/hwlib/alt_clock_manager.o: ../FatFS/hwlib/alt_clock_manager.c
+FatFS/hwlib/alt_clock_manager.o: C:/altera/15.0/embedded/ds-5/sw/ARMCompiler5.05u1/bin/../include/stdint.h
+FatFS/hwlib/alt_clock_manager.o: C:/altera/15.0/embedded/ds-5/sw/ARMCompiler5.05u1/bin/../include/stdlib.h
+FatFS/hwlib/alt_clock_manager.o: C:/altera/15.0/embedded/ds-5/sw/ARMCompiler5.05u1/bin/../include/stdbool.h
+FatFS/hwlib/alt_clock_manager.o: C:/altera/15.0/embedded/ds-5/sw/ARMCompiler5.05u1/bin/../include/stdio.h
+FatFS/hwlib/alt_clock_manager.o: ../FatFS/hwlib/socal/hps.h
+FatFS/hwlib/alt_clock_manager.o: ../FatFS/hwlib/socal/socal.h
+FatFS/hwlib/alt_clock_manager.o: C:/altera/15.0/embedded/ds-5/sw/ARMCompiler5.05u1/bin/../include/stddef.h
+FatFS/hwlib/alt_clock_manager.o: ../FatFS/hwlib/socal/alt_sysmgr.h
+FatFS/hwlib/alt_clock_manager.o: ../FatFS/hwlib/hwlib.h
+FatFS/hwlib/alt_clock_manager.o: ../FatFS/hwlib/alt_hwlibs_ver.h
+FatFS/hwlib/alt_clock_manager.o: ../FatFS/hwlib/alt_clock_manager.h
+FatFS/hwlib/alt_clock_manager.o: ../FatFS/hwlib/alt_clock_group.h
+FatFS/hwlib/alt_clock_manager.o: ../FatFS/hwlib/socal/alt_clkmgr.h
+FatFS/hwlib/alt_clock_manager.o: ../FatFS/hwlib/alt_mpu_registers.h
